@@ -1,0 +1,8 @@
+{
+    "accuracy": 0.77,
+    "f1_score_class_0": 0.78,
+    "f1_score_class_1": 0.47,
+    "f1_score_class_2": 0.85,
+    "macro_avg_f1": 0.7,
+    "weighted_avg_f1": 0.76
+}
